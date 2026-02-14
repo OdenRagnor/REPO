@@ -34,6 +34,7 @@ body {
 
 #statement {
     font-size: x-large;
+    color: rgb(211, 211, 211);
 }
 
 .internalStatement {
@@ -58,6 +59,11 @@ body {
 
 a {
     text-decoration: none;
+    color: rgb(211,211,211);
+}
+
+a:hover {
+    color: rgb(192, 54, 54);
 }
 
 .diagrams {
