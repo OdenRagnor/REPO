@@ -1,0 +1,71 @@
+#home {
+    width: 40px;
+    height: 40px;
+    border: 25px;
+    background-color: rgb(58, 56, 56);
+    border-radius: 25px;
+}
+
+.navButton {
+    border: 3px solid rgb(211, 211, 211);
+    border-radius: 10px;
+    padding: 0px;
+    text-align: center;
+    background-color: rgb(58, 56, 56);
+    height: 50px;
+    width: 50px;
+    color: rgb(211, 211, 211);
+}
+
+#home:hover {
+    background-color: rgb(192, 54, 54);
+}
+
+.navButton:hover {
+    border: 3px solid white;
+    background-color: rgb(192, 54, 54);
+    color: white;
+}
+
+body {
+    background-color: rgb(56, 53, 53);
+    color: rgb(211, 211, 211);
+}
+
+#statement {
+    font-size: x-large;
+}
+
+.internalStatement {
+    padding-left: 20px;
+    font-size: x-large;
+}
+
+.internal2Statement {
+    padding-left: 40px;
+    font-size: x-large;
+}
+
+.internal3Statement {
+    padding-left: 60px;
+    font-size: x-large;
+    color: rgb(211,211,211);
+}
+
+.internal3Statement:hover {
+    color: rgb(192, 54, 54);
+}
+
+a {
+    text-decoration: none;
+}
+
+.diagrams {
+    width: 30VW;
+    height: auto;
+    min-width: 500px;
+}
+
+.diagramHeader {
+    text-align: center;
+}
