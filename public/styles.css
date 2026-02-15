@@ -69,7 +69,7 @@ a:hover {
 .diagrams {
     height: 10VW;
     width: auto;
-    min-height: 200px;
+    min-height: 50px;
 }
 
 .diagramHeader {
