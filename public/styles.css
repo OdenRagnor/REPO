@@ -67,11 +67,16 @@ a:hover {
 }
 
 .diagrams {
-    height: 10VH;
-    width: auto;
-    min-height: 50px;
+    width: 30VW;
+    height: auto;
+    min-width: 200px;
 }
 
 .diagramHeader {
     text-align: center;
+}
+
+#Vbox {
+    width: 200px;
+    height: auto;
 }
