@@ -67,9 +67,9 @@ a:hover {
 }
 
 .diagrams {
-    width: 30VW;
-    height: auto;
-    min-width: 500px;
+    height: 30VW;
+    width: auto;
+    min-height: 200px;
 }
 
 .diagramHeader {
